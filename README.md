@@ -1,4 +1,5 @@
-# Intro-to-NLP-tasks-
+# Sentiment Analysis
+
 This assignment gives you hands-on experience with text representations and the use of text classification for sentiment analysis. Sentiment analysis is extensively used to study customer behaviors using
 reviews and survey responses, online and social media, and healthcare materials for marketing and costumer service applications.
 Task performed are:
